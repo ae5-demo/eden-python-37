@@ -1,0 +1,14 @@
+name: Python 3.7
+
+description: Minimal Python 3.7 project. Add more packages with anaconda-project add-packages.
+
+packages:
+- python=3.7.4
+- notebook
+channels: []
+
+env_specs:
+  python_37: {}
+
+platforms:
+  - linux-64
